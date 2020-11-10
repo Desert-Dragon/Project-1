@@ -1,0 +1,1 @@
+This is a project for CS 118, coded in python 3.8, It is a program that will go through the folder attached and tells you the duplicate files that are inside. It is not fully working at the moment, however I am working on bringing that up to date and getting it to work as intended. 
